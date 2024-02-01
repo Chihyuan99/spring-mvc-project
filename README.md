@@ -2,10 +2,11 @@
 
 This is a Spring MVC Form Validation Project with Bean Validation API created in Spring Tool Suite. In this project, I developed a login form in Spring MVC with validation constraints for the two fields `username` and `password`, as shown below
 
-![Login page](1.png)
+<img src="1.png" width="50%">
 
 Here is my project structure
-![Project structure](2.png)
+
+<img src="2.png" width="40%">
 
 My `pom.xml` file looks like below. Apart from standard Spring MVC artifacts, I also added hibernate-validator dependency in this project.
 ```
